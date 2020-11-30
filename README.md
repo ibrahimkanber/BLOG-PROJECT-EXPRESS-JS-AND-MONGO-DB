@@ -8,6 +8,6 @@
 # Development Strategie:
 
   * i have used ejs for frontend and express.js  for backend 
-  * 
+ 
 
 
